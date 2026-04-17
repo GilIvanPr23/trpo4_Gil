@@ -1,0 +1,1 @@
+git init инициализация каталога и сделать его репозиторием, git status проверить статус, git config --global user.name\email задать имя и почту автора, git commit -m создать коммит git add добавить файл git branch новый репозиторий git switch переключение между репозиториями
